@@ -4,7 +4,7 @@
 
 ⚡ I'm interested in sport, travel, learning and technology.
 
-🌱 I’m currently developing my knowledge to pursue my dream of becoming a software developer.
+🌱 Developing my knowledge of the Vue, Laravel and mysql stack!
 
 📫 You can reach me at: https://www.linkedin.com/in/isaacwilsonn/
 
