@@ -1,8 +1,6 @@
 ### Hi i'm Isaac 👋
 
-🔭 I’m currently working on finishing my computer science degree (exp 2023)
-
-⚡ I'm interested in sport, travel, learning and technology.
+🔭 Bachelor of Computer Science graduate.
 
 🌱 Developing my knowledge of the Vue, Laravel and mysql stack!
 
