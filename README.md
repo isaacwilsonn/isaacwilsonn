@@ -4,5 +4,3 @@
 
 🌱 Developing my knowledge of the Vue, Laravel and mysql stack!
 
-📫 You can reach me at: https://www.linkedin.com/in/isaacwilsonn/
-
