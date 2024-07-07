@@ -2,5 +2,5 @@
 
 🔭 Bachelor of Computer Science graduate.
 
-🌱 Developing my knowledge of the Vue, Laravel and mysql stack!
+🌱 Developing my knowledge of the Vue/React, Laravel/PHP and mysql stack!
 
